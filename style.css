@@ -1,0 +1,28 @@
+body {
+  font-family: 'Comic Neue', sans-serif;
+background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+header {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+img {
+  margin: 15px 0;
+  border-radius: 12px;
+}
+
+button {
+  background-color: pink;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 14px;
+}
